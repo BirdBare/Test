@@ -5,3 +5,10 @@ if(c > 5)
     i+=2
   }
 }
+while(i say so)
+{
+  do(what i say)
+  {
+
+  }while(forever)
+}
