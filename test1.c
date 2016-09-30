@@ -1,6 +1,4 @@
 if(c > 5)
-sdfsfdsdfsc
-asdads
 {
   for(int i=0; i<5; i--)
   {
